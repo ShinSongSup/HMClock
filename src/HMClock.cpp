@@ -13,7 +13,6 @@
 #include "displayClock.h"
 #include <EEPROM.h>
 #include <Streaming.h>        //http://arduiniana.org/libraries/streaming/
-#include <Time.h>               //http://playground.arduino.cc/Code/Time
 #include <DS1302RTC.h>
 #include <Button.h>
 #include <ButtonEventCallback.h>
