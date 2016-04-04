@@ -4,3 +4,4 @@
 //          SCLK pin  -> Arduino Digital 4
 
 // Neopixel pin -> Arduino Digital 6
+//test2
